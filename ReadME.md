@@ -1,3 +1,6 @@
 # OP Bounty Tracker
 
 Second try at making this. just for review and fun. First time i started in the wrong order and had to restart. I started with making a json file and then went back and make a repo for the website. website wasnt loading properly and im not experienced enough yet to know how to fix it. I decided to redo the whole process and take it a step at a time. main goal is just to get my first website done and build it as the phases go. Id also like to start a new topic each phase to reinforce the process of build through github.
+6/3/24. Today I: started this project, basically as review and practice. new to coding and had taken a pause short pause when learning how to program. choose this topic as my first because its a "simple" concept that i really enjoy. I say simple but i had to spend all day and 4 initialized sites later, i was able to create a basic readme, html, css, and js files to start with and build on. 
+    next step: adding a searchbar, styling a tiny bit and figuring out if i can add a json file.
+    need to know: more html tags and practice with css.
